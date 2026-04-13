@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "69d722e7e7360d71a04c9216"
+  },
+  "uid": "e715c86",
+  "nombre": "Verso Dessendre",
+  "acceso": false,
+  "fecha": {
+    "$date": "2026-04-09T03:54:15.218Z"
+  },
+  "ubicacion": {
+    "lat": 21.617546,
+    "lng": -102.998003
+  }
+},
+{
+  "_id": {
+    "$oid": "69d72340e7360d71a04c9217"
+  },
+  "uid": "e715c86",
+  "nombre": "Verso Dessendre",
+  "acceso": false,
+  "fecha": {
+    "$date": "2026-04-09T03:55:44.310Z"
+  },
+  "ubicacion": {
+    "lat": 21.617546,
+    "lng": -102.998003
+  }
+},
+{
+  "_id": {
+    "$oid": "69d72345e7360d71a04c9218"
+  },
+  "uid": "e715c86",
+  "nombre": "Verso Dessendre",
+  "acceso": false,
+  "fecha": {
+    "$date": "2026-04-09T03:55:49.329Z"
+  },
+  "ubicacion": {
+    "lat": 21.617546,
+    "lng": -102.998003
+  }
+},
+{
+  "_id": {
+    "$oid": "69d72349e7360d71a04c9219"
+  },
+  "uid": "e715c86",
+  "nombre": "Verso Dessendre",
+  "acceso": true,
+  "fecha": {
+    "$date": "2026-04-09T03:55:53.015Z"
+  },
+  "ubicacion": {
+    "lat": 21.617546,
+    "lng": -102.998003
+  }
+},
+{
+  "_id": {
+    "$oid": "69d72356e7360d71a04c921a"
+  },
+  "uid": "1288f4",
+  "nombre": "Christopher Larkin",
+  "acceso": true,
+  "fecha": {
+    "$date": "2026-04-09T03:56:06.752Z"
+  },
+  "ubicacion": {
+    "lat": 21.617546,
+    "lng": -102.998003
+  }
+},
+{
+  "_id": {
+    "$oid": "69d7235ee7360d71a04c921b"
+  },
+  "uid": "be2dc86",
+  "nombre": "Walter White",
+  "acceso": true,
+  "fecha": {
+    "$date": "2026-04-09T03:56:14.117Z"
+  },
+  "ubicacion": {
+    "lat": 21.617546,
+    "lng": -102.998003
+  }
+},
+{
+  "_id": {
+    "$oid": "69d72362e7360d71a04c921c"
+  },
+  "uid": "be2dc86",
+  "nombre": "Walter White",
+  "acceso": true,
+  "fecha": {
+    "$date": "2026-04-09T03:56:18.125Z"
+  },
+  "ubicacion": {
+    "lat": 21.617546,
+    "lng": -102.998003
+  }
+},
+{
+  "_id": {
+    "$oid": "69d72367e7360d71a04c921d"
+  },
+  "uid": "15adb96",
+  "nombre": "Victor Borboa",
+  "acceso": true,
+  "fecha": {
+    "$date": "2026-04-09T03:56:23.023Z"
+  },
+  "ubicacion": {
+    "lat": 21.617546,
+    "lng": -102.998003
+  }
+},
+{
+  "_id": {
+    "$oid": "69d7236ae7360d71a04c921e"
+  },
+  "uid": "15adb96",
+  "nombre": "Victor Borboa",
+  "acceso": false,
+  "fecha": {
+    "$date": "2026-04-09T03:56:26.406Z"
+  },
+  "ubicacion": {
+    "lat": 21.617546,
+    "lng": -102.998003
+  }
+},
+{
+  "_id": {
+    "$oid": "69d72412e7360d71a04c921f"
+  },
+  "uid": "ba5c86",
+  "nombre": "Fernando",
+  "acceso": true,
+  "fecha": {
+    "$date": "2026-04-09T03:59:14.148Z"
+  },
+  "ubicacion": {
+    "lat": 21.617546,
+    "lng": -102.998003
+  }
+},
+{
+  "_id": {
+    "$oid": "69d72561e7360d71a04c9220"
+  },
+  "uid": "e715c86",
+  "nombre": "Verso Dessendre",
+  "acceso": true,
+  "fecha": {
+    "$date": "2026-04-09T04:04:49.849Z"
+  },
+  "ubicacion": {
+    "lat": 21.617546,
+    "lng": -102.998003
+  }
+}]
